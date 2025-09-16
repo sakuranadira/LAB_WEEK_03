@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="affogato" type="id" />
+    <item name="americano" type="id" />
+    <item name="latte" type="id" />
+    <item name="cappuccino" type="id" />
+    <item name="mocha" type="id" />
+</resources>
